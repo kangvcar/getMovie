@@ -1,6 +1,6 @@
-# getMovie
+![getMovie](https://socialify.git.ci/kangvcar/getMovie/image?description=1&descriptionEditable=getMovie%20%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%88%E8%BF%9B%E7%9A%84%E7%94%B5%E5%BD%B1%E4%BF%A1%E6%81%AF%E9%87%87%E9%9B%86%E5%92%8C%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B8%93%E4%B8%BA%E7%94%B5%E5%BD%B1%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E3%80%81%E5%BD%B1%E8%A7%86%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%E5%92%8C%E7%94%B5%E5%BD%B1%E7%88%B1%E5%A5%BD%E8%80%85%E8%AE%BE%E8%AE%A1%E3%80%82&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&stargazers=1&theme=Auto)
 
-## 项目介绍
+
 
 getMovie 是一个先进的电影信息采集和管理系统，专为电影数据分析师、影视应用开发者和电影爱好者设计。本系统采用 Python 作为核心开发语言，结合了现代爬虫技术和数据处理方法，提供了一个强大而灵活的电影数据采集解决方案。
 
